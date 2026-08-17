@@ -1,0 +1,1 @@
+/Users/indraqadarsih/Documents/carol-main/commands/log.md
